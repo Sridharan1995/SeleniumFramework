@@ -8,6 +8,7 @@ public class BrowserTest {
 	public void testRun()
 	{
 		System.out.println("maven setup is completed");
+		//pulled
 	}
 
 }
